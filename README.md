@@ -1,5 +1,5 @@
 # Research-Project-Physics
-# 🔬 Research Project: Modeling Granular Dynamics (Kundt's Tube)
+# 🔬 Research Project:Granular Dynamics in a Kundt's Tube
 
 ## 🎯 Context and Objective
 This project was carried out during the 3rd year of my BSc in Physics at the University of Montpellier. Starting from the classic Kundt's tube model (acoustic resonator), the goal was to define an independent research topic, explore a complex physical phenomenon, and model its behavior. 
