@@ -20,5 +20,3 @@ To explain this phenomenon, we conducted a rigorous quantitative study:
 * **Data Analysis:** Dataset processing, mathematical normalization, and curve fitting.
 * **Complex Problem-Solving:** Analytical approach moving from the observation of a physical anomaly to its theoretical justification.
 * **Scientific Communication:** Drafting a comprehensive research report using **LaTeX** and delivering an oral defense before an academic jury.
-
-
